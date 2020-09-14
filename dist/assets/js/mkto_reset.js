@@ -1,0 +1,1 @@
+MktoForms2.whenReady(function(t){var e;(e=function(){for(var t=["mktoHasWidth","mktoFormCol","mktoOffset"],e=[],o=0;o<t.length;o++)t[o]=[].slice.call(document.getElementsByClassName(t[o])),e=e.concat(t[o]);for(o=0;o<e.length;o++)e[o].setAttribute("style","")})(),window.addEventListener("resize",e)});
